@@ -23,7 +23,7 @@ If any doubts here's a link to some more explanations:
 
 ## Run
 
-- Download the project, open terminal window on folder with 'school.py' and type:
+- Download the project, open terminal window on folder with 'text_speech.py' and type:
 
 ```
 python text_speech.py
